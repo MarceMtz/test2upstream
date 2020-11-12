@@ -1,3 +1,3 @@
-fun test(){
-    val a = 1+2
+fun test() {
+    val a = 1 + 2
 }
